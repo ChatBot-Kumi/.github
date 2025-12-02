@@ -10,8 +10,11 @@ Criado a fim de otimizar o contato com novos clientes da Academia Cross Kumite
       <a href="https://github.com/aAlineoliveirasouza">
         <img src="https://github.com/aAlineoliveirasouza.png" width="100px;" alt="Jullia Kathelyn"/>
         <br />
-        <sub><b>Aline Oliveira></sub>
+        <sub><b>Aline Oliveira</sub>
       </a>
+      <br />
+      <span>UI/UX Designer</span>
+      <br />
     </td>
      <td align="center">
       <a href="https://github.com/Andreia9794">
@@ -19,6 +22,9 @@ Criado a fim de otimizar o contato com novos clientes da Academia Cross Kumite
         <br />
         <sub><b>Andreia Maria</sub>
       </a>
+      <br />
+      <span>UI/UX Designer</span>
+      <br />
     </td>
     <td align="center">
       <a href="https://github.com/estelalm">
@@ -26,6 +32,9 @@ Criado a fim de otimizar o contato com novos clientes da Academia Cross Kumite
         <br />
         <sub><b>Estela Alves</sub>
       </a>
+      <br />
+      <span>Dev Back-End</span>
+      <br />
     </td>
     <td align="center">
       <a href="https://github.com/Ingrid-Machado">
@@ -33,6 +42,9 @@ Criado a fim de otimizar o contato com novos clientes da Academia Cross Kumite
         <br />
         <sub><b>Ingrid Aline</sub>
       </a>
+      <br />
+      <span>Dev Back-End</span>
+      <br />
     </td>
      <td align="center">
       <a href="https://github.com/May-mqy.">
@@ -40,6 +52,9 @@ Criado a fim de otimizar o contato com novos clientes da Academia Cross Kumite
         <br />
         <sub><b>Mayara Vitória</sub>
       </a>
+      <br />
+      <span>Dev Full-Stack</span>
+      <br />
     </td>
     
 
